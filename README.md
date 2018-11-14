@@ -1,11 +1,11 @@
 
 
-#BUILD A PRODUCT: SendIT
+# BUILD A PRODUCT: SendIT
 
-##Project Overview
+## Project Overview
 API  endpoints for SendIt, a courier service that helps users deliver parcels to different destinations. SendIT provides courier quotes based on weight categories.
 
-##Getting started
+## Getting started
 
     git clone https://github.com/OnyiegoAyub/SendIt-API-CH2
     Set up a virtual environment on SendIt-API-CH2 using commamnd: sudo apt install virtualenv
@@ -18,12 +18,12 @@ API  endpoints for SendIt, a courier service that helps users deliver parcels to
       
     Test the following endpoints on Postman
 
-##ENDPOINTS
+## ENDPOINTS
 
     Fetch all parcel delivery orders: localhost:5000/api/v1/parcels
     
 
-##Prerequisites
+## Prerequisites
   Git
   Make required installations
   Postman
@@ -36,9 +36,9 @@ Output of terminal
 
 git clone https://github.com/OnyiegoAyub/SendIt-API-CH2.git
 
-##Built With
+## Built With
     Python
 
-Author
+## Author
   Ayub Onyiego
 
